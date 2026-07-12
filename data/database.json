@@ -1,0 +1,38 @@
+{
+  "juegos": [
+    {
+      "id": 1,
+      "nombre": "The Last of Us",
+      "categoria": "Supervivencia",
+      "reseñas": {
+        "tomi": {
+          "jugado": true,
+          "puntaje": 9.5,
+          "opinion": "Increíble historia y desarrollo de personajes."
+        },
+        "pipe": {
+          "jugado": false,
+          "puntaje": null,
+          "opinion": null
+        }
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "Minecraft",
+      "categoria": "Mundo Abierto",
+      "reseñas": {
+        "tomi": {
+          "jugado": true,
+          "puntaje": 8.0,
+          "opinion": "Muy bueno para pasar el rato."
+        },
+        "pipe": {
+          "jugado": true,
+          "puntaje": 10.0,
+          "opinion": "El mejor juego de la historia."
+        }
+      }
+    }
+  ]
+}
