@@ -2,15 +2,66 @@
   "juegos": [
     {
       "id": 1,
-      "nombre": "The Last of Us",
-      "categoria": "Supervivencia",
+      "nombre": "Hollow Knight",
+      "categoria": "Metroidvania",
       "reseñas": {
-        "tomi": {
-          "jugado": true,
-          "puntaje": 9.5,
-          "opinion": "Increíble historia y desarrollo de personajes."
-        },
         "pipe": {
+          "jugado": true,
+          "puntaje": 10,
+          "opinion": "Es el juego mas fiel que existe, buena historia, buena jugabilidad(precisa), sonido, todo bien hacen"
+        },
+        "toto": {
+          "jugado": true,
+          "puntaje": 8,
+          "opinion": "No es el estilo de juego mio, pero muy bonito"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "The Last Of Us 1",
+      "categoria": "Acción-aventura",
+      "reseñas": {
+        "pipe": {
+          "jugado": true,
+          "puntaje": 9,
+          "opinion": "Necesito volver a jugarlo para poder poner el 10 porque no lo tengo tan fresco, pero los recuerdos son de un juegazo tanto en historia, musica y jugabilidad"
+        },
+        "toto": {
+          "jugado": true,
+          "puntaje": 10,
+          "opinion": "Primer juego de play 3 que me pase, sin palabras"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "The Last Of Us 2",
+      "categoria": "Acción-aventura",
+      "reseñas": {
+        "pipe": {
+          "jugado": true,
+          "puntaje": 10,
+          "opinion": "Un juego que sufri muchisimo por la hdp de la pc, y a pesar de tener que bajar la resolucion a 1280x720 fue una locura, con eso digo todo"
+        },
+        "toto": {
+          "jugado": true,
+          "puntaje": 10,
+          "opinion": "El juego mas duro y mas miedo me genero desde que juego juegos"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "Contance",
+      "categoria": "Sin especificar",
+      "reseñas": {
+        "pipe": {
+          "jugado": true,
+          "puntaje": 4,
+          "opinion": "No invento nada, historia super chota y juego demasiado corto. Muy poco arriesgados"
+        },
+        "toto": {
           "jugado": false,
           "puntaje": null,
           "opinion": null
@@ -18,19 +69,104 @@
       }
     },
     {
-      "id": 2,
-      "nombre": "Minecraft",
-      "categoria": "Mundo Abierto",
+      "id": 5,
+      "nombre": "Tomb Raider: Game of the year",
+      "categoria": "Acción-aventura",
       "reseñas": {
-        "tomi": {
-          "jugado": true,
-          "puntaje": 8.0,
-          "opinion": "Muy bueno para pasar el rato."
-        },
         "pipe": {
           "jugado": true,
-          "puntaje": 10.0,
-          "opinion": "El mejor juego de la historia."
+          "puntaje": 7,
+          "opinion": "Buena jugabilidad, siento que la historia quedo muy pobre y falto mucha banda sonora (lo mas importante de un goty)"
+        },
+        "toto": {
+          "jugado": true,
+          "puntaje": 8,
+          "opinion": "Criticas: Historia un poco y exageracion(musica tambien un poco). Cosas buenas ella, jugabilidad"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "nombre": "Rise of the Tomb Rider",
+      "categoria": "Acción-aventura",
+      "reseñas": {
+        "pipe": {
+          "jugado": false,
+          "puntaje": null,
+          "opinion": null
+        },
+        "toto": {
+          "jugado": true,
+          "puntaje": 9,
+          "opinion": "Historia me llego muchisimo mas que el primero, el final es una locura y deja muy abierto para jugar al shadow"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "nombre": "A Plague Tale: Innocence",
+      "categoria": "Sin especificar",
+      "reseñas": {
+        "pipe": {
+          "jugado": true,
+          "puntaje": 9,
+          "opinion": "Plantea algo muy diferente a lo acostumbrado, la historia y ambientación son extraordinarias y las mecánicas son también muy únicas"
+        },
+        "toto": {
+          "jugado": false,
+          "puntaje": null,
+          "opinion": null
+        }
+      }
+    },
+    {
+      "id": 8,
+      "nombre": "A Plague Tale: Requiem",
+      "categoria": "Sin especificar",
+      "reseñas": {
+        "pipe": {
+          "jugado": true,
+          "puntaje": 10,
+          "opinion": "Una obra de arte, hasta el momento la mejor ambientaicon y calidad que vi en un juego. Bien optimizado, no se quedo con las mecanicas del Innocence, agrego nuevas que lo mejoran y hacen que no aburra, una banda sonora hermosa y una historia muy única y un final de la puta madre. Tiene partes que son medias bolaceras pero no deja de ser un 10"
+        },
+        "toto": {
+          "jugado": false,
+          "puntaje": null,
+          "opinion": null
+        }
+      }
+    },
+    {
+      "id": 9,
+      "nombre": "Days Gone",
+      "categoria": "Sin especificar",
+      "reseñas": {
+        "pipe": {
+          "jugado": true,
+          "puntaje": 8,
+          "opinion": "Es un juego que no se porque le agarre mucho cariño y lo quiero mucho. La historia y personajes me gustan mucho y tiene muy buenos graficos, se hace largo si haces todas las misiones secundarias"
+        },
+        "toto": {
+          "jugado": false,
+          "puntaje": null,
+          "opinion": null
+        }
+      }
+    },
+    {
+      "id": 10,
+      "nombre": "Expedition 33",
+      "categoria": "Sin especificar",
+      "reseñas": {
+        "pipe": {
+          "jugado": true,
+          "puntaje": 9,
+          "opinion": "Una obra de arte lo que plantea la historia de inicio a fin y siendo un juego de combate por turnos. Una banda sonora de lcdll pero pierde un punto porque me traumo con un fallo de direct12"
+        },
+        "toto": {
+          "jugado": false,
+          "puntaje": null,
+          "opinion": null
         }
       }
     }
